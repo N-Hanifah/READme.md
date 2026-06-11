@@ -25,3 +25,35 @@ This project demonstrates my ability to set up a modern AI-enhanced development 
 
 ---
 *Prepared by Nurul Hanifah*
+
+---
+
+## Research Project: AI-Powered SEO Content Production
+
+### About
+This repository also contains research on how top practitioners use AI tools
+to scale, optimize, and produce SEO content for B2B SaaS companies.
+
+### Why This Topic
+As an SEO writer and content manager with 14 years of experience,
+I chose this topic because AI-powered content production directly intersects
+with my professional background. This research explores how leading experts
+are integrating AI into real SEO workflows — not just theory, but actual practice.
+
+### Expert Selection Criteria
+- Actively publishing content in 2024–2025
+- Practitioners first (they do the work, not just write about it)
+- Mix of LinkedIn authors, YouTube creators, and newsletter writers
+- Proven track record in SEO + AI content specifically
+
+### Repository Structure
+- `/research/sources.md` — master list of 10 experts with links and annotations
+- `/research/linkedin-posts/` — posts organized by author
+- `/research/youtube-transcripts/` — transcripts organized by video
+- `/research/other/` — additional materials
+
+### Status
+- [x] Repository structure created
+- [ ] LinkedIn posts collected
+- [ ] YouTube transcripts collected
+- [ ] Analysis complete
