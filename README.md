@@ -41,7 +41,7 @@ with my professional background. This research explores how leading experts
 are integrating AI into real SEO workflows — not just theory, but actual practice.
 
 ### Expert Selection Criteria
-- Actively publishing content in 2024–2025
+- Actively publishing content in 2025–2026
 - Practitioners first (they do the work, not just write about it)
 - Mix of LinkedIn authors, YouTube creators, and newsletter writers
 - Proven track record in SEO + AI content specifically
