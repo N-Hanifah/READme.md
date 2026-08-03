@@ -214,4 +214,4 @@ For practitioners at the working level, I recommend Kevin Indig for rigorous dat
 
 ---
 
-*This playbook will be updated as the field evolves. Last reviewed: June 2026.*
+*This playbook will be updated as the field evolves. Last reviewed: August 3, 2026.*
