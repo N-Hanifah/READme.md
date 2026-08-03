@@ -1,7 +1,7 @@
 # Playbook: AI-Powered SEO Content Production
 **Author:** Nurul Hanifah  
 **Based on:** Research from 10 SEO & AI practitioners  
-**Last updated:** June 2026
+**Last updated:** August 3, 2026
 
 ---
 
